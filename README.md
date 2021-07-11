@@ -3,17 +3,7 @@
 ## Table of Contents
 
 - [About The Project](#about-the-project)
-  - [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-  - [Scripts](#scripts)
 - [License](#license)
-- [Changelog](#changelog)
-- [Code Style](#code-style)
-- [Documentation](#documentation)
-- [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
 ## About The Project
